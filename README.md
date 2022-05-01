@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidthedev/) [![Facebook Badge](https://img.shields.io/badge/-Hamid-blue?style=flat&logo=Facebook&logoColor=white)](https://www.linkedin.com/in/hamidthedev/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidthedev/) [![Facebook Badge](https://img.shields.io/badge/-Hamid-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hamidthedev/)
 
 ---
 
