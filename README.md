@@ -58,15 +58,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://codeforces.com/profile/HamidTheDev">
    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=hamidthedev&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
+<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
 
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/hamidthedev/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
 <br/>
+
 
 
 ### :fire: My Stats :
