@@ -1,10 +1,10 @@
 [![Header](https://github.com/Hamid-ul-Islam/hamid-ul-islam/blob/main/banner.png?raw=true "Header")](https://github.com/hamid-ul-islam)
 
 ## 👋 Hello! 
-Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+Software engineer with 5+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable with web, mobile, and API development.
 
 ## 📚 Portfolio
-Besides developing, I also run a [Portfolio](https://hamidul-islam.vercel.app/).
+Check out my portfolio here [Portfolio](https://hamidul-islam.vercel.app/).
 
 ## 💻 Interesting Contributions
 [![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)]
@@ -22,4 +22,4 @@ Besides developing, I also run a [Portfolio](https://hamidul-islam.vercel.app/).
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=hamid-ul-islam&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hamid's github stats](https://github-readme-stats.vercel.app/api?username=hamid-ul-islam&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
