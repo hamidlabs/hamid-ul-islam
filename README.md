@@ -6,9 +6,6 @@ Software engineer with 5+ years of experience.  Worked for innovative startups, 
 ## 📚 Portfolio
 Check out my portfolio here [Portfolio](https://hamidul-islam.vercel.app/).
 
-## 💻 Interesting Contributions
-[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)]
-
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
@@ -20,6 +17,3 @@ Check out my portfolio here [Portfolio](https://hamidul-islam.vercel.app/).
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
-## 📊 Statistics
-[![Hamid's github stats](https://github-readme-stats.vercel.app/api?username=hamid-ul-islam&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
