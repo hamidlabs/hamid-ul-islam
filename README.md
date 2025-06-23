@@ -1,4 +1,4 @@
-[![Header](https://github.com/Hamid-ul-Islam/hamid-ul-islam/blob/main/banner.png?raw=true "Header")](https://github.com/hamid-ul-islam)
+[![Header](https://github.com/Hamid-ul-Islam/hamid-ul-islam/blob/main/banner.png?raw=true "Header")](https://github.com/hamidlabs)
 
 ## 👋 Hello! 
 Software engineer with 5+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable with web, mobile, and API development.
